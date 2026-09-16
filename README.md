@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+tj
 
 ## Members
 
-- _nobody has signed on yet_
+timothy r_
